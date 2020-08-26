@@ -1,0 +1,13 @@
+.shop-container{
+    display: flex;
+}
+.card-container{
+    border-left: 1px solid lightgray;
+    margin: 2px 2px;
+    padding-left: 12px;
+}
+.products-container{
+    width: 70%;
+    margin-left: 60px;
+    margin-right: 5px;
+}
